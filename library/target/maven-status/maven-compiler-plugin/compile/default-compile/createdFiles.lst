@@ -1,0 +1,4 @@
+com\example\library\client\TenantClient.class
+com\example\library\entity\Tenant.class
+com\example\library\config\TenantsConfig.class
+com\example\library\client\TenantClient$1.class

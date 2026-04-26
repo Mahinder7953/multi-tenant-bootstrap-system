@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: tenant-consumer-service
+
+server.port: 9090
+
+tenant-service:
+  url: http://localhost:8081/api/v1/tenants
